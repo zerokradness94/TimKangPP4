@@ -1,0 +1,25 @@
+html {
+	font-family: 'Jockey One', sans-serif;
+	color: white;
+}
+
+table {
+	table-layout: fixed;
+	width: 40%;
+	border-collapse: collapse;
+	border: 2px solid white;
+}
+
+th, td {	
+	padding: 10px;
+}
+
+body, html {
+	min-height:100%;
+}
+
+body {
+	background-image:url("solarsystem.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
