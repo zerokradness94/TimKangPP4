@@ -2,7 +2,7 @@ html {
 	color: white;
 }
 
-h1 {
+h1, #footer {
 	font-family: 'Merienda', cursive;
 	text-align:center;
 }
@@ -26,6 +26,10 @@ th, td {
 th {
 	letter-spacing: 2px;
 	text-align: center;
+}
+
+a:link{
+	color: white;
 }
 
 body, html {
