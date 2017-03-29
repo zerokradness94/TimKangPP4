@@ -9,25 +9,23 @@ h1 {
 
 table {
 	table-layout: fixed;
-	width: 40%;
+	width: 80%;
 	border-collapse: collapse;
 	border: 2px solid white;
 	margin: 0 auto;
 	overflow: hidden;
+	
 }
 
 th, td {	
 	padding: 10px;
 	font-family: 'Merienda', cursive;
+	border: 2px solid white;
 }
 
 th {
 	letter-spacing: 2px;
 	text-align: center;
-}
-
-td {
-	border: 2px solid white;
 }
 
 body, html {
@@ -38,4 +36,5 @@ body {
 	background-image:url("solarsystem.jpg");
 	background-repeat:no-repeat;
 	background-size:cover;
+	padding-top: 6%;
 }
