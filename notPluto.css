@@ -4,6 +4,7 @@ html {
 
 h1 {
 	font-family: 'Merienda', cursive;
+	text-align:center;
 }
 
 table {
@@ -11,6 +12,8 @@ table {
 	width: 40%;
 	border-collapse: collapse;
 	border: 2px solid white;
+	margin: 0 auto;
+	overflow: hidden;
 }
 
 th, td {	
